@@ -20,12 +20,12 @@
   .box{
     display: flex;
     height: 100vh;
-    width: 100vh;
+    width: 100%;
 }
 
   .logo-div{
     position: relative;
-    width: 100%;
+    width: 100vh;
     height: 100vh;
     background: url("week1 project image.jpeg") no-repeat center;
 }
@@ -61,7 +61,7 @@
     bottom: 10px;
     font-size: 10px;
     font-weight: 400;
-    padding-left:30px;
+    padding-left:50px;
     
   
 }

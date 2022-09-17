@@ -25,10 +25,9 @@
 
   .logo-div{
     position: relative;
-    width: 50vw;
+    width: 100%;
     height: auto;
     background: url("week1 project image.jpeg") no-repeat center;
-    top:0;
 }
 
   .logo{
